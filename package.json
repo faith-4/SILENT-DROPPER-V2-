@@ -1,12 +1,12 @@
 {
-  "name": "Ellaxdami-xd",
+  "name": "silentdropper-v2",
   "version": "4.5.0",
-  "description": "A WhatsApp Bot Created By DaminixellaOfficial",
+  "description": "A WhatsApp Bot Created By DaminiOfficial",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name Tanjiro-md",
-    "stop": "pm2 stop Tanjiro-md",
-    "restart": "pm2 restart Tanjiro-md"
+    "stop": "pm2 stop silent-md",
+    "restart": "pm2 restart silent-md"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:baileys-pro@latest",
