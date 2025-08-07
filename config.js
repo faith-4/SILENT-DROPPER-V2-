@@ -13,7 +13,7 @@ AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY ELLA X DÅMĪ XD🤍*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*Silently seen your status 😈*",
 // set the auto reply massage on status reply  
 ANTI_DELETE: process.env.ANTI_DELETE || "true",
 // set true false for anti delete     
@@ -27,14 +27,14 @@ ANTI_LINK: process.env.ANTI_LINK || "true",
 // make anti link true,false for groups 
 MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // make true if want auto voice reply if someone menetion you 
-MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/cl2vd6.png",
+MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/j5kg11.png",
 MENU_VIDEO_URL: process.env.MENU_VIDEO_URL || "",
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "ELLA X DÅMĪ XD",
+BOT_NAME: process.env.BOT_NAME || "SILENT DROPPER V2",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "Ella&dami",
+STICKER_NAME: process.env.STICKER_NAME || "silent",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -44,11 +44,11 @@ DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
 OWNER_NUMBER: process.env.OWNER_NUMBER || "2348054671458",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "*DAMĪNĪXELLA*",
+OWNER_NAME: process.env.OWNER_NAME || "*DAMINĪ*",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Damini 🍂XELLA😘*",
+DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Damini 🍂*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/cl2vd6.png",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/j5kg11.png",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> nonchalanceispure 🧘 ⚡",
 // add alive msg here 
